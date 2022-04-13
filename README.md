@@ -1,6 +1,6 @@
-# Ubuntu GNUStep (Ubuntu Remixes)
+# Ubuntu GNUstep (Ubuntu Remixes)
 
-A remix of Ubuntu using GNUStep as the desktop environment.
+A remix of Ubuntu using GNUstep as the desktop environment.
 
 ## Build dependencies
 
